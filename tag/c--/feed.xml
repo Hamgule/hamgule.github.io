@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://hamgule.github.io//tag/c--/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://hamgule.github.io//" rel="alternate" type="text/html" />
+  <updated>2021-02-25T20:00:08+09:00</updated>
+  <id>https://hamgule.github.io//tag/c--/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Hamgule’s Blog | </title>
+  
+
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">C++ 강좌(1) - C++ 기본</title>
+      <link href="https://hamgule.github.io//C++-basic" rel="alternate" type="text/html" title="C++ 강좌(1) - C++ 기본" />
+      <published>2021-02-25T15:20:00+09:00</published>
+      <updated>2021-02-25T15:20:00+09:00</updated>
+      <id>https://hamgule.github.io//C++-basic</id>
+      <content type="html" xml:base="https://hamgule.github.io//C++-basic">&lt;p&gt;이 글은 C++ basic 입니다.!!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>SeungJoon Hyeon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="C++" />
+      
+
+      
+        <summary type="html">이 글은 C++ basic 입니다.!!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

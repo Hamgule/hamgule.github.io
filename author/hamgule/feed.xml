@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://hamgule.github.io//author/hamgule/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://hamgule.github.io//" rel="alternate" type="text/html" />
+  <updated>2021-02-25T20:00:08+09:00</updated>
+  <id>https://hamgule.github.io//author/hamgule/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Hamgule’s Blog | </title>
+  
+
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Python 강좌(2) - Python 제어문</title>
+      <link href="https://hamgule.github.io//python-control-statement" rel="alternate" type="text/html" title="Python 강좌(2) - Python 제어문" />
+      <published>2021-02-25T18:20:00+09:00</published>
+      <updated>2021-02-25T18:20:00+09:00</updated>
+      <id>https://hamgule.github.io//python-control-statement</id>
+      <content type="html" xml:base="https://hamgule.github.io//python-control-statement">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이 글은 python의 제어문에 대한 내용을 담고 있습니다.!!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>SeungJoon Hyeon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python 강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌(2) - Python 제어문</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Python 강좌(1) - Python 기본</title>
+      <link href="https://hamgule.github.io//python-basic" rel="alternate" type="text/html" title="Python 강좌(1) - Python 기본" />
+      <published>2021-02-25T15:20:00+09:00</published>
+      <updated>2021-02-25T15:20:00+09:00</updated>
+      <id>https://hamgule.github.io//python-basic</id>
+      <content type="html" xml:base="https://hamgule.github.io//python-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이 글은 python basic 입니다.!!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>SeungJoon Hyeon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python 강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌(2) - Python 제어문</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Java 강좌(1) - Java 기본</title>
+      <link href="https://hamgule.github.io//java-basic" rel="alternate" type="text/html" title="Java 강좌(1) - Java 기본" />
+      <published>2021-02-25T15:20:00+09:00</published>
+      <updated>2021-02-25T15:20:00+09:00</updated>
+      <id>https://hamgule.github.io//java-basic</id>
+      <content type="html" xml:base="https://hamgule.github.io//java-basic">&lt;p&gt;이 글은 java basic 입니다.!!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>SeungJoon Hyeon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="java" />
+      
+
+      
+        <summary type="html">이 글은 java basic 입니다.!!</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">C++ 강좌(1) - C++ 기본</title>
+      <link href="https://hamgule.github.io//C++-basic" rel="alternate" type="text/html" title="C++ 강좌(1) - C++ 기본" />
+      <published>2021-02-25T15:20:00+09:00</published>
+      <updated>2021-02-25T15:20:00+09:00</updated>
+      <id>https://hamgule.github.io//C++-basic</id>
+      <content type="html" xml:base="https://hamgule.github.io//C++-basic">&lt;p&gt;이 글은 C++ basic 입니다.!!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>SeungJoon Hyeon</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="C++" />
+      
+
+      
+        <summary type="html">이 글은 C++ basic 입니다.!!</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
